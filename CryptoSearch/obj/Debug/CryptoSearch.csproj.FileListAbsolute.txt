@@ -1,0 +1,10 @@
+C:\Users\makss\source\repos\CryptoSearch\CryptoSearch\bin\Debug\CryptoSearch.exe.config
+C:\Users\makss\source\repos\CryptoSearch\CryptoSearch\bin\Debug\CryptoSearch.exe
+C:\Users\makss\source\repos\CryptoSearch\CryptoSearch\bin\Debug\CryptoSearch.pdb
+C:\Users\makss\source\repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.csproj.AssemblyReference.cache
+C:\Users\makss\source\repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\makss\source\repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.Properties.Resources.resources
+C:\Users\makss\source\repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.csproj.GenerateResource.cache
+C:\Users\makss\source\repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.csproj.CoreCompileInputs.cache
+C:\Users\makss\source\repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.exe
+C:\Users\makss\source\repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.pdb
