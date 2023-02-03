@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace CryptoSearch
 {
@@ -17,6 +18,8 @@ namespace CryptoSearch
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            string test = APICoinGeckoManager.GetCurrent24("binance-bitcoin", "usd");
+            int debug = 1;
         }
     }
 }

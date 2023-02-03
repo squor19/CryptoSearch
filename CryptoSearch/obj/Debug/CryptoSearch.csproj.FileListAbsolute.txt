@@ -8,3 +8,13 @@ C:\Users\makss\source\repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.csp
 C:\Users\makss\source\repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.csproj.CoreCompileInputs.cache
 C:\Users\makss\source\repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.exe
 C:\Users\makss\source\repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.pdb
+C:\Users\makma\Source\Repos\CryptoSearch\CryptoSearch\bin\Debug\CryptoSearch.exe.config
+C:\Users\makma\Source\Repos\CryptoSearch\CryptoSearch\bin\Debug\CryptoSearch.exe
+C:\Users\makma\Source\Repos\CryptoSearch\CryptoSearch\bin\Debug\CryptoSearch.pdb
+C:\Users\makma\Source\Repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.csproj.AssemblyReference.cache
+C:\Users\makma\Source\Repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\makma\Source\Repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.Properties.Resources.resources
+C:\Users\makma\Source\Repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.csproj.GenerateResource.cache
+C:\Users\makma\Source\Repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.csproj.CoreCompileInputs.cache
+C:\Users\makma\Source\Repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.exe
+C:\Users\makma\Source\Repos\CryptoSearch\CryptoSearch\obj\Debug\CryptoSearch.pdb
