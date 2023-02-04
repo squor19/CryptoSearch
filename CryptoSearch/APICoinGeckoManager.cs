@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Deployment.Application;
 using System.Linq;
 using System.Net.Http;
 using System.Text;
@@ -25,6 +26,12 @@ namespace CryptoSearch
             {
                 return "Connection Error";
             }
+        }
+
+
+        public static void updateBitcoinHistory(int fromDate)
+        {
+
         }
 
         public static string GetCurrent24(string currencyId, string vsCurrencyId)
