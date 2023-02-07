@@ -15,10 +15,12 @@ namespace CryptoSearch
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.EnableVisualStyles();
+            //Application.SetCompatibleTextRenderingDefault(false);
+            //Application.Run(new Form1());
             string test = APICoinGeckoManager.GetCurrent24("binance-bitcoin", "usd");
+            DateTime date = new DateTime(2017, 12, 30);
+            APICoinGeckoManager.updateCoinHistory(date, "bitcoin");
             int debug = 1;
         }
     }
